@@ -90,4 +90,4 @@ Full tools, guides, and privacy resources:
 
 ## Profile Views
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=privacy-tools-web&style=flat-square)
